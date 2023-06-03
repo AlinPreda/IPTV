@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Undefined",Antena 1
+https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance (1080p)
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="General",Prima TV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RO➾ROMANYA",RO HBO 3 HD Backup NO_2
+http://vipsyn.com:8080/live/tayfunturan/561055303/72182.ts?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="Romainia",RO Digi Sport 1 Backup NO_2
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61288?checkedby:iptvhippo.com
+#EXTINF:-1 tvg-country="RO" group-title="Sport",DIGI Sport 1 Backup NO_1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.1.ro.m3u8?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="Спорт",DIGI Sport 1 HD RO
+http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2523/index.m3u8?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="RO➾ROMANYA",RO HBO 2 HD Backup NO_2
+http://vipsyn.com:8080/live/tayfunturan/561055303/72181.ts?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="Romania",Orange Sport 1 FHD RO
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/36070?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="RO➾ROMANYA",RO Prima Sport 1 HD Backup NO_2
+http://vipsyn.com:8080/live/tayfunturan/561055303/72171.ts?checkedby:iptvhippo.com
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="ROMANIA",|RO.| Digi Sport 1
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/248842.ts?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="RO➾ROMANYA",RO HBO Backup NO_2
+http://vipsyn.com:8080/live/tayfunturan/561055303/72180.ts?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="Romania",Digi Sport 1 FHD RO [Multi-Audio]
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/16731?checkedby:iptvhippo.com
+#EXTINF:-1,|RO| Digi Sport 1 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/311156?checkedby:iptvhippo.com
+#EXTINF:-1 group-title="RO➾ROMANYA",RO Orange Sport 1 HD Backup NO_2
+http://vipsyn.com:8080/live/tayfunturan/561055303/72176.ts?checkedby:iptvhippo.com
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-logo="https://i.imgur.com/1gtkGhB.png" group-title="Music",ZU TV
+https://rundle.deta.dev/hls/LIVE$ZuTelevision/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="ProTV" tvg-logo="https://i.imgur.com/1gtkGhB.png" group-title="General",Pro TV ?
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="TVR 1" tvg-logo="https://i.imgur.com/1gtkGhB.png" group-title="General",TVR 1 Needs VPN
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TEST" tvg-logo="https://i.imgur.com/1gtkGhB.png" group-title="General",TEST
+http://nuip.go.ro:18888/live/test/test/105.ts
